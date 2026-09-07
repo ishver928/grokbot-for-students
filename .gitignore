@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+.grok/local/
+.grok/data/
+node_modules/
+.venv/
+__pycache__/
+*.pyc

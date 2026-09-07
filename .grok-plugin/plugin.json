@@ -1,0 +1,13 @@
+---
+name: campus-pass
+version: 1.0.0
+description: Car-free campus trip planner for Grok Bot. Accessible route cards, student transit benefits, Google Maps links, Start Trip and Emergency help.
+author: Ishanvi Verma
+homepage: https://x.ai/bot/16Pe83KOSpevWpYebl8dw
+keywords:
+  - grok-bot
+  - campus
+  - transit
+  - accessibility
+skills: ./skills
+agents: ./agents

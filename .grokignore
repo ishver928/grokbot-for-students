@@ -1,0 +1,7 @@
+.env
+.env.*
+.grok/local/
+.grok/data/
+*.log
+node_modules/
+.venv/
