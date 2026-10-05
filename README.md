@@ -14,7 +14,7 @@ Helps college students plan affordable, realistic car-free trips using universit
 
 It will:
 
-- Look up campus shuttles and student U-Pass-style benefits
+- Look up campus shuttles and student U-Pass-style benefits (like for UC Berkeley and SJSU students it would look at BayPass benefits)
 - Build one cheap-on-time option and one faster backup
 - Return phone-readable route cards with Maps links
 - Recheck live directions when you say **Start Trip**
