@@ -1,6 +1,6 @@
 # Campus-Pass
 
-Grok Bot source for **Campus-Pass** — a car-free trip planner for college students.
+Grok Bot source for **Campus-Pass** — a car-free trip planner for college students but unlike Google Maps this focuses on student safety and commute prices. This idea came from an uncomfortable experience I had to deal with on my way to SJSU. One day while walking from the bus station to campus which is just a simple 7 minute walk. A stranger had come behind me grazing my arm while pressing the walking signal sign. And screaming "come to me girl", "come to me". Luckily, that day a group of students called to me and walked me to my class. Then it was my mission to make a student maps system which focused on those who take public transit, safety, and commute prices. 
 
 This repo is built to match the published bot template:
 
